@@ -1,0 +1,27 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "Node js tutorials ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nanor-Bright-Suka/Node-js.git"
+  },
+  "author": "Bright",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nanor-Bright-Suka/Node-js/issues"
+  },
+  "homepage": "https://github.com/Nanor-Bright-Suka/Node-js#readme",
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "uuid": "^10.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.7"
+  }
+}

@@ -1,0 +1,39 @@
+[
+    {
+      "id": 1,
+      "name": "John Doe",
+      "email": "john.doe@example.com",
+      "age": 30,
+      "isAdmin": true,
+      "preferences": {
+        "language": "English",
+        "theme": "dark"
+      },
+      "hobbies": ["reading", "coding", "hiking"]
+    },
+    {
+      "id": 2,
+      "name": "Jane Smith",
+      "email": "jane.smith@example.com",
+      "age": 25,
+      "isAdmin": false,
+      "preferences": {
+        "language": "French",
+        "theme": "light"
+      },
+      "hobbies": ["photography", "traveling"]
+    },
+    {
+      "id": 3,
+      "name": "Alice Johnson",
+      "email": "alice.johnson@example.com",
+      "age": 28,
+      "isAdmin": false,
+      "preferences": {
+        "language": "Spanish",
+        "theme": "dark"
+      },
+      "hobbies": ["painting", "gaming", "cooking"]
+    }
+  ]
+  

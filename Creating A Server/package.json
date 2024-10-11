@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "date-fns": "^4.1.0",
+    "nodemon": "^3.1.7",
+    "uuid": "^10.0.0"
+  },
+  "name": "building-a-web-server-with-nodejs",
+  "version": "1.0.0",
+  "description": "A repository for node js with express and mango db. Notes and Projects",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+   "start": "node server",
+   "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
